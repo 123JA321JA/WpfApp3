@@ -22,7 +22,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-            StrokeColorPicker.SelectedColor = strokeColor;
+            StrokeColorPicker.SelectedColor = strokeColor; 
             FillColorPicker.SelectedColor = fillColor;
         }
 

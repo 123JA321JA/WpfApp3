@@ -25,7 +25,7 @@
             </ToolBar>
             <ToolBar Height="38" Width="600" Background="#FFA8D684">
                 <RadioButton Height="35" Width="35" FontSize="16" Checked="ShapeButton_Checked" FontWeight="Bold" Tag="Line">
-                    <Image Source="/line.png" />
+                    <Image Source="/line.png" /> 
                 </RadioButton>
                 <RadioButton Height="35" Width="35" FontSize="16" Checked="ShapeButton_Checked" FontWeight="Bold" Tag="Rectangle">
                     <Image Source="/rectangle.png" />
